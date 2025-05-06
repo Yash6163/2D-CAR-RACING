@@ -1,0 +1,3 @@
+COMMANDS TO RUN THE CODE AFTER PREREQUISITES ARE INSTALLED :
+1.   g++ -std=c++17 main.cpp -o racing_game -I/opt/homebrew/include -L/opt/homebrew/lib -lsfml-graphics -lsfml-window -lsfml-system\
+2.   ./racing_game
